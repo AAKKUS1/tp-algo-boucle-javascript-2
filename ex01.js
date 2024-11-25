@@ -12,5 +12,5 @@ function findMax(arr) {
   
     
   
-  console.log(findMax([1, 3, 7, 2])); // 
+  console.log(findMax([1, 3, 7, 2])); 
   console.log(findMax([-5, -1, -10]));
